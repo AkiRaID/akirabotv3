@@ -1,63 +1,94 @@
-![logo](https://user-images.githubusercontent.com/79284980/110831365-bebe1680-82cc-11eb-9d82-d6fe4d131222.jpg)
-------------------------------------
-Versi Indonesia
+<p align="center">
+<img src="https://i.ibb.co/BjSpVNH/6300fac2-6a67-4cd6-8138-364f980ed50f.jpg"/>
+</p>
+<p align="center">
+<a href="#"><img title="akirabotv3" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/AkiRaID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKIRA-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/AkiRaID/followers"><img title="Followers" src="https://img.shields.io/github/followers/AkiRaID?color=blue&style=flat-square"></a>
+<a href="https://github.com/AkiRaID/akirabotv3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AkiRaID/akirabotv3?color=red&style=flat-square"></a>
+<a href="https://github.com/AkiRaID/akirabotv3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AkiRaID/akirabotv3?color=red&style=flat-square"></a>
+<a href="https://github.com/AkiRaID/akirabotv3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AkiRaID/akirabotv3?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAkiRaID%2Fakirabotv3&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+</p>
 
-Cara Install Script Ini
+<p align="center">
+    <img
+        src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+    <img
+        src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</p>
+<div align="center">
+<details>
+ <summary>😔 Help me!</summary>
+ 
+ [Saweria](https://saweria.co/akirayt)
+ 
+</details>
 
-1. buka termux
-2. apt-get install bash
-3. apt-get install git
-3. git clone https://github.com/dappauhuy/dapbot-cuy
-4. cd dapbot-cuy
-5. bash install.sh
-6. node index.js
+<p align="center">
+📫 Follow Me On
+</p>
 
-Scan Kode Qr Di WhatsApp Web
-Selesai:)
-Selamat Bermain Bot:)
+<p align="center">
+<a href="https://www.instagram.com/akirashopreal" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://m.youtube.com/channel/UCvVd-kAsrJUjg0bwKqxUPeg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://wa.me/6282158549899" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+</p>
 
-Jika error silahkan download node_modules terlebih dahulu link ada dibawah
+## Info
+```bash
+Akira Bot adalah Bot Whatsapp yg Memiliki 500+ Fitur, 
+dan Menggunakan Bermacam² Rest Api
+```
 
-Cara pasang node_modules
+## Tools
+Alat yg diperlukan
 
-1. Extract file node_modules
-2. Buka termux
-3. termux-setup-storage
-4. cd dapbot-cuy
-5. cp -r /sdcard/download/node_modules $HOME
-6. node index.js
-
-Selesai:)
-
-------------------------------------
-English Version
-
-How To Install This Script
-
-1. open termux
-2. apt-get install bash
-3. apt-get install git
-3. git clone https://github.com/dappauhuy/dapbot-cuy
-4. cd dapbot-cuy
-5. bash install.sh
-6. node index.js
-
-Scan Qr Code On WhatsApp Web
-Done:)
-Happy Playing Bot:)
-
-If an error, please download node_modules first, the link is below
-
-How to install node_modules
-
-1. Extract the node_modules file
-2. Open termux
-3. termux-setup-storage
-4. cd dapbot-cuy
-5. cp -r / sdcard / download / node_modules $ HOME
-6. node index.js
-
-Done:)
+```bash
+whatsapp
+termux
+2 Handphone
+```
 
 
-Link Node_Modules : https://www.mediafire.com/download/0d4clcwovbwhpjk
+## Getting Started
+
+This project require NodeJS v12
+
+### Install
+Clone this project
+
+```bash
+$ git clone https://github.com/AkiRaID/akirabotv1.git
+$ cd akirabotv1
+```
+
+Install the dependencies:
+
+```bash
+$ pkg install nodejs
+$ pkg install ffmpeg
+$ pkg install imagemagick
+$ bash install.sh
+```
+
+### Usage
+Run the Whatsapp bot
+
+```bash
+$ node index.js
+```
+
+Scan Qrnya,dan Selamat Menikmati Bot Wanya😁
+
+
+## Thanks to
+* [Roy](https://github.com/Pxc7b)
+* [Riu](https://github.com/Pxc7)
+* [MhankBarBar](https://github.com/MhankBarBar)
+* [LolHuman](https://github.com/LoL-Human)
+
