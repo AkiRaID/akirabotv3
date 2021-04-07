@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/BjSpVNH/6300fac2-6a67-4cd6-8138-364f980ed50f.jpg"/>
+<img src="https://i.ibb.co/rp4ZnpZ/20210407-072131.jpg"/>
 </p>
 <p align="center">
 <a href="#"><img title="akirabotv3" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -63,8 +63,8 @@ This project require NodeJS v12
 Clone this project
 
 ```bash
-$ git clone https://github.com/AkiRaID/akirabotv1.git
-$ cd akirabotv1
+$ git clone https://github.com/AkiRaID/akirabotv3
+$ cd akirabotv3
 ```
 
 Install the dependencies:
